@@ -52,8 +52,6 @@ The dashboard provides a clear framework for strategic action:
 
 ---
 
----
-
 ## 2. The Analytical Approach: A Dashboard Deep Dive
 
 The core of this analysis is a Pareto segmentation based on cumulative sales contribution, designed to identify the "vital few" customers who drive disproportionate value. The interactive dashboard is built to explore these segments from three distinct analytical angles: **Key Performance Indicators**, **Trend Analysis**, and **Behavioral Profiling**.
@@ -113,6 +111,6 @@ This multi-faceted approach transforms a simple list of customers into a rich, i
     *   Click the "Live Dashboard" badge at the top of this page or go directly to: [https://tinyurl.com/ywmuyhsc](https://tinyurl.com/ywmuyhsc)
 2.  **Review the Documentation:**
     *   For a deeper understanding of the business logic and technical implementation, review the detailed markdown files in the `docs/` folder.
-```
+
 
 

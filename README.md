@@ -1,7 +1,7 @@
 # Aurelia Ventures Strategic Customer Segmentation: A Power BI Case Study
 
 <p align="center">
-  <a href="https://tinyurl.com/ywmuyhsc" target="_blank">
+  <a href="https://tinyurl.com/3df6ehaa" target="_blank">
     <img src="https://img.shields.io/badge/Live_Dashboard-View_Here-blue?style=for-the-badge&logo=powerbi" alt="Live Dashboard Link">
   </a>
 </p>

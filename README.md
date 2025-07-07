@@ -6,9 +6,10 @@
   </a>
 </p>
 
-This repository details a Power BI customer segmentation analysis for "Aurelia Ventures," a fictional B2B distribution company. It demonstrates a data-driven approach to move beyond surface-level sales metrics and uncover which customer segments are truly driving the business, enabling a shift towards a more profitable and focused sales strategy.
+This repository details a Power BI customer segmentation analysis for "Aurelia Ventures," a fictional B2B distribution company. It demonstrates a data-driven approach to move beyond surface-level sales metrics and uncover which customer segments are truly driving the business, enabling a shift towards a more profitable and focused sales strategy. 
 
-![Dashboard Demo](assets/segmentation_demo.gif)
+![Dashboard Demo](assets/segmemtation_demo.gif)
+
 
 ## Table of Contents
 - [1. Case Study Overview](#1-case-study-overview)
